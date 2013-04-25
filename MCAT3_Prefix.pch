@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MCAT3' target in the 'MCAT3' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
